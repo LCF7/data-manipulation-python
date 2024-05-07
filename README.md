@@ -14,11 +14,11 @@ This repository contains a Python script for data manipulation, specifically foc
 
 ## Setup
 To run this project, install the required packages:
-```bash
-pip install pandas
+
+- pip install pandas
 
 ## Usages
-Run the script using Python to perform data transformations and generate a statistical report in an Excel file.
+- Run the script using Python to perform data transformations and generate a statistical report in an Excel file.
 
 ## Contribution
-Feel free to fork this project, open issues, and send pull requests to enhance the functionalities.
+- Feel free to fork this project, open issues, and send pull requests to enhance the functionalities.
